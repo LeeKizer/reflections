@@ -1,0 +1,6 @@
+this is lesson three relfections made on github
+
+When would you want to use a remote repository rather than keeping all your work local?
+if more than one person is working on it or 
+i work onit from more than one computer
+
