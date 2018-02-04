@@ -7,13 +7,25 @@ It added more control to whitch file are added to the WD
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+i can fix a group of files and than only add them to the commit one at a time by adding them to the 
+staging area
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+working on a new platform or new feature
+
 How do the diagrams help you visualize the branch structure?
+
+we can see the chain of pairents and commits
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+becasue it links two older commits into one so we can merger with out loseing the old branchs
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+pros we can add to branchs with out rewrite everything 
+cons when ever there is a change git will only tell us 
